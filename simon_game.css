@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#outer{
+    display: flex;
+    justify-content: center;
+}
+.inner{
+    height: 150px;
+    width: 150px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: limegreen;
+}
+.ligthgreen{
+    background-color: lightseagreen;
+}
+.orange{
+    background-color: orange;
+}
+.flash{
+    background-color: white;
+}
+.overflash{
+    background-color: red;
+}
